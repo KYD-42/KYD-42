@@ -8,7 +8,9 @@
 
 # 🤖 About Me
 
-I'm a recently graduated web developer with a passion for coding, video-games and product design. With nearly a decade of experience as a creative designer under my belt, I bring a unique perspective to web development. My goal is to blend design and development to craft websites that are both beautiful and functional. I love learning new technologies, tackling challenges head-on, and collaborating with others to bring ideas to life.
+Hi there! I'm Filipe, a frontend developer with a passion for crafting engaging, user-centric and overall good looking web experiences. I have a decade of experience as a creative designer, and that background continues to inform my approach to web development. I believe that intuitive interfaces, clean code, and visually appealing results are essential for creating products that users truly enjoy.
+
+I'm constantly exploring new technologies and approaches to bring those ideals to life in the digital world, seeking out that perfect balance of form and function. Feel free to check out my projects here on GitHub – I'm always eager to collaborate, learn from others, and share my knowledge. Let's create something awesome together! 🕹️
 
 <br>
 
