@@ -8,9 +8,13 @@
 
 # 🤖 About Me
 
-Hi there! I'm Filipe, a frontend developer with a passion for crafting engaging, user-centric and overall good looking web experiences. I have a decade of experience as a creative designer, and that background continues to inform my approach to web development. I believe that intuitive interfaces, clean code, and visually appealing results are essential for creating products that users truly enjoy.
+Hi, I'm Filipe Santiago, a <b>Creative Developer</b> passionate about <b>UX UI design</b> and <b>Front-end Development</b>. I aim to design & develop user-centric and overall good looking web experiences. Building on my <b>8+ years</b> of experience as a <b>Creative Designer</b>, I've recently transitioned into <b>Web Development</b>, with focus on <b>Front-end technologies</b>.
 
-I'm constantly exploring new technologies and approaches to bring those ideals to life in the digital world, seeking out that perfect balance of form and function. Feel free to check out my projects here on GitHub – I'm always eager to collaborate, learn from others, and share my knowledge. Let's create something awesome together! 🕹️
+My background in design allows me to seamlessly translate design concepts into functional & visually awesome web applications. I thrive in collaborative environments, using my strong communication skills to ensure a smooth transition from design to development.
+
+I'm constantly expanding my skillset, exploring new technologies, languages & design trends to bring my concepts to life in the digital world. I believe that a perfect balance between form and function is the key to creating web products that thrive.
+
+Feel free to check out my projects, I'm always eager to connect, learn from others & collaborate on building something awesome together!
 
 <br>
 
@@ -53,8 +57,7 @@ I'm constantly exploring new technologies and approaches to bring those ideals t
 
 ### ⚡ Currently Learning
 
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-black.svg?style=for-the-badge&logo=Unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🌐 Connect with Me!
 
