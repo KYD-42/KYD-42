@@ -8,13 +8,13 @@
 
 # 🤖 About Me
 
-Hi, I'm Filipe Santiago, a <b>Creative Developer</b> passionate about <b>UX UI design</b> and <b>Front-end Development</b>. I aim to design & develop user-centric and overall good looking web experiences. Building on my <b>8+ years</b> of experience as a <b>Creative Designer</b>, I've recently transitioned into <b>Web Development</b>, with focus on <b>Front-end technologies</b>.
+Hey, I’m Filipe Santiago, a <b>Multidisciplinary Designer</b> focused on <b>UX/UI Design</b> & <b>Branding</b>. Turning ideas into pixels and pixels into experiences. Driven by purpose, creativity, and a little bit of coffee ☕
 
-My background in design allows me to seamlessly translate design concepts into functional & visually awesome web applications. I thrive in collaborative environments, using my strong communication skills to ensure a smooth transition from design to development.
+Solving problems is what drives me. My focus is on creating user-centred solutions that are both functional and intuitive. Designing products that not only look great but also meet the user’s needs effectively.
 
-I'm constantly expanding my skillset, exploring new technologies, languages & design trends to bring my concepts to life in the digital world. I believe that a perfect balance between form and function is the key to creating web products that thrive.
+I’ve spent years working with creative agencies and multiple freelance projects, across branding, illustration, UX/UI, and motion graphics, giving me a well-rounded skill set that allows me to take on a wide range of projects. Recently, I’ve expanded my skill set with front-end development to deepen my understanding of all stages of product design and enhance my ability to create thoughtful, technically feasible designs that deliver real value.
 
-Feel free to check out my projects, I'm always eager to connect, learn from others & collaborate on building something awesome together!
+When I’m not working, you’ll find me exploring new design tools and tech, grabbing a coffee (or two), or getting lost in a good video game. Feel free to check out my projects, I'm always eager to connect, learn from others & collaborate on building something awesome together!
 
 <br>
 
@@ -57,7 +57,7 @@ Feel free to check out my projects, I'm always eager to connect, learn from othe
 
 ### ⚡ Currently Learning
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ## 🌐 Connect with Me!
 
